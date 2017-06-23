@@ -1,0 +1,2 @@
+# regok
+my test repository
